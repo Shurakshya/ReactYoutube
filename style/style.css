@@ -18,8 +18,8 @@
     padding:10px;
     border : 1px solid #ddd;
     border-radius: 4px;
-
 }
+
 div.title{
     margin-bottom: 20px;
     color : #A52A2A;
@@ -36,6 +36,7 @@ div.description{
     cursor : pointer;
 
 }
+
 .list-group-item:hover{
     background-color: #eee;
 }
